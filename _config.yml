@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "They/Them"
-  bio              : "Hi! I am a 3rd year Ph.D student studying under Jenna Rajchgot and Megumi Harada at McMaster university. I work in combinatorial algebraic geometry, and I am particularly interested in quiver loci, poritroid varieties, and pipe dreams."
+  bio              : "Hi! I am a 3rd year Ph.D student studying under Jenna Rajchgot and Megumi Harada at McMaster University. I work in combinatorial algebraic geometry, and I am particularly interested in quiver loci, positroid varieties, and pipe dreams."
   location         : "Hamilton, Ontario, Canada"
   employer         : "McMaster University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
