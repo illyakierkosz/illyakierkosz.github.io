@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : "They/Them"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "They/Them"
+  bio              : "Hi! I am a 3rd year Ph.D student studying under Jenna Rajchgot and Megumi Harada at McMaster university. I work in combinatorial algebraic geometry, and I am particularly interested in quiver loci, poritroid varieties, and pipe dreams."
   location         : "Hamilton, Ontario, Canada"
   employer         : "McMaster University"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
