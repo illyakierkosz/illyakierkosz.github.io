@@ -8,18 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research"
-    subfolderitems:
-    - page: "Publications"
-      url: /publications/
-    - page: "Talks"
-      url: /talks/
   
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Research"
+    url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
